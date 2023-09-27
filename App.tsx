@@ -9,7 +9,7 @@ import React from 'react';
 
 import SampleComponent from './src/views/SampleComponent';
 import StylingReactNativeCompoonent from './src/views/StylingReactNativeComponent';
-import { SafeAreaView, ScrollView, View } from 'react-native';
+import {SafeAreaView, ScrollView} from 'react-native';
 
 function App(): JSX.Element {
   return (
